@@ -1,0 +1,9 @@
+torch~=2.3.0
+torchaudio
+lightning
+transformers==4.41.0
+datasets
+jsonargparse[signatures]>=4.27.7
+librosa
+tensorboardx
+tensorboard
